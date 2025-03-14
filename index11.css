@@ -1,4 +1,4 @@
-/* Global Styles */
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
 
 :root {
@@ -171,7 +171,6 @@ nav {
     margin-bottom: 1rem;
 }
 
-/* Buy Now Section */
 .buy-section {
     display: flex;
     align-items: center;
@@ -271,7 +270,7 @@ nav {
     text-align: right;
 }
 
-/* FAQs Section */
+
 .faqs {
     background-color: var(--background-color);
 }
@@ -296,7 +295,7 @@ nav {
     color: var(--secondary-color);
 }
 
-/* Contact Section */
+
 .contact {
     text-align: center;
     background-color:rgb(2, 43, 29);
@@ -358,7 +357,7 @@ nav {
     align-self: flex-start;
 }
 
-/* Footer */
+
 footer {
     background-color: rgb(2, 43, 29);;
     color: var(--light-text);
@@ -416,7 +415,7 @@ footer {
     opacity: 0.8;
 }
 
-/* Responsive Design */
+
 @media (max-width: 992px) {
     .hero {
         flex-direction: column;
